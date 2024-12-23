@@ -9,7 +9,7 @@ __The actual guide is in the Wiki :__ https://github.com/kurgut/KSP-IVA-modding-
 <br/>
 If you see mistakes, errors / other, or have suggestions or additions for this wiki, feel free to create an issue on the repo 👍 or pull requests, I'm not sure how wiki contributing works actually.  
 <br/>
-There is also a KSP forum thread, for discussions and questions : [to come]  
+There is also a KSP forum thread, for discussions, suggestions and questions : [__Complete IVA modding guide : modifying, creating - Unity, Blender__](https://forum.kerbalspaceprogram.com/topic/226469-complete-iva-modding-guide-modifying-creating-unity-blender/)  
 Alternatively, you can join my KSP discord server and ask your questions there : https://discord.gg/GcfDk4DYHU  
 <br/>
 Happy IVA modding !
