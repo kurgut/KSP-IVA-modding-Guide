@@ -4,7 +4,7 @@ A complete guide on how to make and modify IVAs for Kerbal Space Program.
 Information on KSP IVA modding tend to be scarse, or old, so this is an attempt at making a centralized place for that, with all my experience and others's I could find, put together.  
 <br/>
 <br/>
-__The actual guide is in the Wiki :__ https://github.com/kurgut/KSP-IVA-modding-Guide/wiki  
+__--> The actual guide is in the Wiki :__ https://github.com/kurgut/KSP-IVA-modding-Guide/wiki  
 <br/>
 <br/>
 If you have a suggestion, for changes, errors / mistakes, or additions to the IVA modding Wiki, feel free to write about it in the [__Discussions__](https://github.com/kurgut/KSP-IVA-modding-Guide/discussions) section > [__Wiki-feedback channel__](https://github.com/kurgut/KSP-IVA-modding-Guide/discussions/categories/wiki-feedback)  
